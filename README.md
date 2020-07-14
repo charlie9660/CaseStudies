@@ -1,2 +1,2 @@
 # CaseStudies
-Interview Casestudies
+Interview Case studies
