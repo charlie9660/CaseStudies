@@ -1,5 +1,6 @@
 # CaseStudies
 
+
 Data Science
 1 Fast food business through alternative data (sales, online transaciton, web traffic)
 
